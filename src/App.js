@@ -1,9 +1,10 @@
 import "./App.css";
+import golf from "./images/golf.jpg";
 
 function App() {
   return (
     <div className="App">
-      <img src="./images/volleyball.jpg" alt="golf"></img>
+      <img src={golf} alt="golf"></img>
     </div>
   );
 }
