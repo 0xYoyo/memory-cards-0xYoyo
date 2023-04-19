@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-cards-0xYoyo/static/css/main.d52a2b5d.css",
+    "main.js": "/memory-cards-0xYoyo/static/js/main.114fc016.js",
+    "static/js/787.efc4d965.chunk.js": "/memory-cards-0xYoyo/static/js/787.efc4d965.chunk.js",
+    "static/media/tennis.jpg": "/memory-cards-0xYoyo/static/media/tennis.2dfab8695ec53d06af96.jpg",
+    "static/media/soccer.jpg": "/memory-cards-0xYoyo/static/media/soccer.85de29e7c206587289d3.jpg",
+    "static/media/volleyball.jpg": "/memory-cards-0xYoyo/static/media/volleyball.24d074159a46e6bd76c8.jpg",
+    "static/media/basketball.jpg": "/memory-cards-0xYoyo/static/media/basketball.ad174c11c12aec4fa2aa.jpg",
+    "static/media/golf.jpg": "/memory-cards-0xYoyo/static/media/golf.d68f50be1df5ef812bb7.jpg",
+    "static/media/baseball.jpg": "/memory-cards-0xYoyo/static/media/baseball.308d13c324d5690018fd.jpg",
+    "static/media/rugby.jpg": "/memory-cards-0xYoyo/static/media/rugby.9ac6bc8b88c51c4201f5.jpg",
+    "static/media/table-tennis.jpg": "/memory-cards-0xYoyo/static/media/table-tennis.83981b2857ef8201de09.jpg",
+    "static/media/cricket.jpg": "/memory-cards-0xYoyo/static/media/cricket.7346f6b679dbebc5e24c.jpg",
+    "static/media/hockey.jpg": "/memory-cards-0xYoyo/static/media/hockey.477c89b99d4037e1b153.jpg",
+    "index.html": "/memory-cards-0xYoyo/index.html",
+    "main.d52a2b5d.css.map": "/memory-cards-0xYoyo/static/css/main.d52a2b5d.css.map",
+    "main.114fc016.js.map": "/memory-cards-0xYoyo/static/js/main.114fc016.js.map",
+    "787.efc4d965.chunk.js.map": "/memory-cards-0xYoyo/static/js/787.efc4d965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52a2b5d.css",
+    "static/js/main.114fc016.js"
+  ]
+}
